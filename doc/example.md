@@ -52,6 +52,7 @@
 ## 🌟 流程概述
 
 <div align="center">
+
 ![AI Coding Flow](https://img.shields.io/badge/AI%20Flow-9%20Steps-purple?style=flat-square&logo=workflow)
 ![Efficiency](https://img.shields.io/badge/Efficiency-+300%25-brightgreen?style=flat-square&logo=trending-up)
 ![Quality](https://img.shields.io/badge/Quality-Premium-gold?style=flat-square&logo=star)
@@ -74,6 +75,7 @@
 ### 步骤1：🤝 与AI交互，进行需求分析
 
 <div align="center">
+
 ![Analysis](https://img.shields.io/badge/Phase-Requirements%20Analysis-blue?style=for-the-badge&logo=search)
 </div>
 
@@ -130,6 +132,7 @@
 
 
 <div align="center">
+
 ![Code Style](https://img.shields.io/badge/Code%20Style-PEP8%2FPrettier-blue?style=flat-square&logo=code-review)
 ![Git Flow](https://img.shields.io/badge/Git%20Flow-Conventional%20Commits-green?style=flat-square&logo=git)
 ![Testing](https://img.shields.io/badge/Testing-80%25%2B%20Coverage-red?style=flat-square&logo=jest)
