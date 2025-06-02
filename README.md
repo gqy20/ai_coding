@@ -1,37 +1,13 @@
 <!-- LOGO & Banner -->
+
+
+# AI Coding 入门指南：开启智能编程新时代 🚀
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Coding-入门指南-blue?style=for-the-badge" alt="AI Coding Badge" />
   <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-green?style=for-the-badge" alt="Level Badge" />
   <img src="https://img.shields.io/badge/Language-中文-red?style=for-the-badge" alt="Language Badge" />
 </p>
 
-<div align="center">
-
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║                                                          ║
-  ║    🤖 AI Coding 入门指南：开启智能编程新时代 🚀          ║
-  ║                                                          ║
-  ║        🌟 掌握核心理念与主流工具                           ║
-  ║        ⚡ 提升开发效率，释放创造力                         ║
-  ║        🎯 从入门到精通的系统化学习路径                     ║
-  ║                                                          ║
-  ╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-# AI Coding 入门指南：开启智能编程新时代 🚀
-
-<div align="center">
-
-```
-    🤖💻🚀        AI + Programming = Future        🚀💻🤖
-    ═══════════════════════════════════════════════════════════
-    ⚡ 智能编程 ⚡ 高效开发 ⚡ 创新思维 ⚡ 技能提升 ⚡
-```
-
-</div>
 
 ## 概述
 
@@ -266,32 +242,6 @@ flowchart TD
 -   **多实践**：用 AI 工具解决真实编程问题，积累实战经验。
 -   **理解原理**：掌握 AI 编码工具的基本原理与局限，避免盲目依赖。
 -   **持续学习**：关注 AI 编码领域新技术与工具，保持技术敏锐度。
-
----
-
-## 项目结构一览
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
-</p>
-
-本项目文档集中于 `doc/` 目录，结构清晰，便于查阅：
-
-```
-📂 AI_coding/
-├── 📄 README.md                    # 你正在阅读的文件
-└── 📁 doc/
-    ├── 📊 comparison.md           # AI编码工具对比
-    ├── 🎓 copilot-guide.md        # GitHub Copilot教育版申请指南
-    ├── 💼 example.md              # AI编程流程案例分析
-    ├── 🌟 resources.md            # 学习资源推荐
-    ├── 🎬 videos.md               # AI Coding视频案例
-    ├── 📋 workflow.md             # 基本使用流程 (已整合到README.md)
-    └── 📁 mcp/
-        ├── ⚡ cline-features.md   # Cline功能全解析
-        └── 🔧 mcp.md              # MCP协议指南
-```
-
 ---
 
 <div align="center">
