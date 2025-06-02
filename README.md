@@ -17,6 +17,20 @@
 
 ---
 
+## 📚 文档导航
+
+- [AI编码高效工作流：从入门到精通的实践路径 🚀](doc/01_workflow.md)
+- [2025 AI编码工具深度对比：助您选择最佳开发利器 🚀](doc/02_comparison.md)
+- [最优 AI 编码路径：从想法到 AI 辅助实现 (详细分级与文档提示词)](doc/03_best_path.md)
+- [🚀 AI编程流程案例分析](doc/04_example.md)
+- [AI编码学习资源宝库：助您从入门到精通 🚀](doc/05_resources.md)
+- [独家指南：免费获取GitHub Copilot Pro特权 🚀](doc/06_copilot-guide.md)
+- [Cline功能全解析：解锁AI编程的无限可能 🚀](doc/mcp/cline-features.md)
+- [常用MCP工具精选：赋能您的AI代理与自动化工作流 🚀](doc/mcp/mcp_useful.md)
+- [掌握模型上下文协议 (MCP)：安装、使用与开发综合指南](doc/mcp/mcp.md)
+
+---
+
 ## AI Coding 学习路线图 📚
 
 ### 阶段1: 入门基础 🏁
@@ -139,11 +153,12 @@ flowchart TD
 📂 AI_coding/
 ├── 📄 README.md                    # 你正在阅读的文件
 └── 📁 doc/
-  ├── 📊 comparison.md           # AI编码工具对比
-  ├── 🎓 copilot-guide.md        # GitHub Copilot教育版申请指南
-  ├── 💼 example.md              # AI编程流程案例分析
-  ├── 🌟 resources.md            # 学习资源推荐
-  ├── 📋 workflow.md             # 基本使用流程
+  ├── 📋 01_workflow.md          # AI编码高效工作流
+  ├── 📊 02_comparison.md        # AI编码工具对比
+  ├── 🎯 03_best_path.md         # 最优AI编码路径
+  ├── 💼 04_example.md           # AI编程流程案例分析
+  ├── 🌟 05_resources.md         # 学习资源推荐
+  ├── 🎓 06_copilot-guide.md     # GitHub Copilot教育版申请指南
   └── 📁 mcp/
     ├── ⚡ cline-features.md   # Cline功能全解析
     ├── 🔧 mcp.md              # MCP协议指南
@@ -211,7 +226,7 @@ flowchart TD
 
 -   **AI生成的代码可靠吗？** 需开发者审核，AI代码可能存在逻辑或安全隐患。
 -   **AI工具免费吗？** 多数工具有免费版，高级功能通常需付费订阅。
--   **如何选择合适的AI工具？** 结合编程语言、开发环境与预算，详见 [AI编码工具对比](doc/comparison.md)。
+-   **如何选择合适的AI工具？** 结合编程语言、开发环境与预算，详见 [AI编码工具对比](doc/02_comparison.md)。
 
 ---
 

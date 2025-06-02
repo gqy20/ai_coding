@@ -4,33 +4,6 @@
   <img src="https://img.shields.io/badge/指南-详细步骤-red?style=for-the-badge" alt="Guide Detailed Steps Badge" />
 </p>
 
-<div align="center">
-
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║                                                          ║
-  ║    ✨ 独家指南：免费获取GitHub Copilot Pro特权 🚀         ║
-  ║                                                          ║
-  ║        🌟 专为学生、教师与开源贡献者打造                   ║
-  ║        🎨 轻松解锁AI编程助手高级功能                       ║
-  ║        🎯 提升您的开发效率                                ║
-  ║                                                          ║
-  ╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-# 独家指南：免费获取GitHub Copilot Pro特权 🚀
-
-<div align="center">
-
-```
-    🎓👩‍🏫💻        Free Copilot Pro = Empowering Developers        ✨🚀💡
-    ═══════════════════════════════════════════════════════════
-    ⚡ 学生福利 ⚡ 教师支持 ⚡ 开源贡献 ⚡ 轻松激活 ⚡
-```
-
-</div>
 
 ## 概述
 

@@ -57,6 +57,10 @@
     以通俗方式讲解**AI编程**、**算法原理**和**项目实操**，适合**零基础和进阶学习**。
   -   **[KrillinAI](https://space.bilibili.com/242124650)**  
     GitHub开源项目Klic Studio作者，分享高质量**AI科技内容**，传播知识，学以致用。
+  -   **[小白debug](https://space.bilibili.com/302188068)**  
+    聚焦**编程入门**、**AI工具实操**和**项目Debug技巧**，内容亲民，适合**零基础和进阶开发者**。
+
+这些UP主的视频内容涵盖了AI编程的各个阶段，从基础入门到项目实战，帮助学习者系统提升AI开发能力。建议根据自身学习阶段选择合适的UP主进行关注和学习。
 
 
 ### 微信公众号
@@ -70,6 +74,7 @@
 -   **AI科技前哨站** - 聚焦AI最新技术、工具和开发实践，适合技术爱好者和开发者。
 -   **Python卡皮巴拉** - 分享Python、AI编程实用技巧和案例，适合初学者和进阶者。
 -   **杰克船长的AIGC** - 关注AIGC、AI创作与开发，内容丰富，适合AI开发者。
+-   **InfoQ** - 为一线互联网公司核心技术人员提供优质内容，是科技圈的观察者和前沿技术的传播者。
 
 ### GitHub项目与开源资源
 
@@ -78,7 +83,8 @@
 -   **Lovable (GPT-Engineer)** - [GitHub链接](https://github.com/AntonOsika/gpt-engineer) - **一站式AI软件工程师平台**，适合**快速原型开发**和**全栈项目学习**。
 -   **Fragments (AI-Artifacts)** - [GitHub链接](https://github.com/e2b-dev/ai-artifacts) - **开源AI代码执行平台**，支持**多模型**和**安全代码执行**，适合**快速原型开发和AI实验**。
 -   **LlamaCoder** - [GitHub链接](https://github.com/togethercomputer/LlamaCoder) - 基于Llama 3.1的**开源AI编程助手**，适合**快速应用生成**和**个人项目学习**。
-
+-   **awesome-cursorrules** - [GitHub链接](https://github.com/PatrickJS/awesome-cursorrules) - 精选的**Cursor相关资源列表**，包括插件、提示和技巧，适合**Cursor用户和对此编辑器感兴趣的开发者**。
+-   
 ### 在线社区与论坛
 
 -   **AI编程社区** - [链接](https://aicoding.csdn.net) - 汇聚全球AI编程工具资讯，助力开发者即刻编程，提供**社区服务**和**技术支持**。

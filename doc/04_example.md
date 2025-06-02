@@ -73,11 +73,8 @@
 ## 🎯 具体流程步骤
 
 ### 步骤1：🤝 与AI交互，进行需求分析
-
-<div align="center">
-
 ![Analysis](https://img.shields.io/badge/Phase-Requirements%20Analysis-blue?style=for-the-badge&logo=search)
-</div>
+
 
 - **🎯 目标**：明确项目需求和功能范围
 - **⚡ 操作**：
@@ -615,24 +612,19 @@ AI辅助编程显著提升了开发效率，尤其在项目初期规划和文档
 
 ## 🎨 代码风格
 ### 前端规范
-![React](https://img.shields.io/badge/React-Airbnb_Style-61DAFB?style=flat&logo=react)
-![Prettier](https://img.shields.io/badge/Prettier-Code_Formatter-F7B93E?style=flat&logo=prettier)
 - 遵循Airbnb React规范
 - 使用Prettier自动格式化
 - 2空格缩进，驼峰命名
 - 组件使用PascalCase
 
 ### 后端规范
-![Python](https://img.shields.io/badge/Python-PEP8-3776AB?style=flat&logo=python)
-![Black](https://img.shields.io/badge/Black-Code_Formatter-000000?style=flat&logo=python)
 - 遵循PEP8规范
 - 使用Black自动格式化
 - isort排序import语句
 - 函数和变量使用snake_case
 
 ## 📝 Git提交规范
-![Conventional Commits](https://img.shields.io/badge/Conventional-Commits-FE7D37?style=flat&logo=git)
-```
+
 feat: 新增用户注册接口
 fix: 修复任务删除bug
 docs: 更新API文档
@@ -640,10 +632,9 @@ style: 代码格式调整
 refactor: 重构任务查询逻辑
 test: 添加用户认证测试
 chore: 更新依赖包版本
-```
+
 
 ## 🧪 测试要求
-![Testing](https://img.shields.io/badge/Coverage->80%25-4CAF50?style=flat&logo=testing-library)
 - 单元测试覆盖率不低于80%
 - 前端使用Jest + React Testing Library
 - 后端使用pytest + coverage
@@ -660,43 +651,36 @@ chore: 更新依赖包版本
 ## 🗓️ 开发时间线（总计16天）
 
 ### 🔍 阶段1：需求分析（2天）
-![Requirements](https://img.shields.io/badge/Day_1--2-需求分析-E91E63?style=flat&logo=search)
 - 明确功能需求与用户故事
 - 技术选型和架构设计
 - 制定开发规范和流程
 
 ### 🏗️ 阶段2：项目初始化（1天）
-![Setup](https://img.shields.io/badge/Day_3-项目初始化-FF9800?style=flat&logo=rocket)
 - 创建Git仓库和项目结构
 - 初始化前后端开发环境
 - 配置CI/CD流水线
 
 ### 💻 阶段3：核心功能开发（7天）
-![Development](https://img.shields.io/badge/Day_4--10-核心开发-4CAF50?style=flat&logo=code)
 - 用户认证系统（2天）
 - 任务管理API（3天）
 - 前端主要页面（2天）
 
 ### ✨ 阶段4：功能完善（3天）
-![Enhancement](https://img.shields.io/badge/Day_11--13-功能完善-2196F3?style=flat&logo=star)
 - 任务筛选和搜索功能
 - UI/UX优化和响应式设计
 - 性能优化和错误处理
 
 ### 🧪 阶段5：测试（2天）
-![Testing](https://img.shields.io/badge/Day_14--15-测试阶段-9C27B0?style=flat&logo=flask)
 - 单元测试和集成测试
 - 用户验收测试（UAT）
 - 性能测试和安全测试
 
 ### 🚀 阶段6：部署（1天）
-![Deployment](https://img.shields.io/badge/Day_16-部署上线-607D8B?style=flat&logo=docker)
 - Docker容器化
 - 生产环境部署
 - 监控和日志配置
 
 ### 🔄 阶段7：维护与优化（持续）
-![Maintenance](https://img.shields.io/badge/持续-维护优化-795548?style=flat&logo=tools)
 - 用户反馈收集
 - 功能迭代和优化
 - 安全更新和监控
