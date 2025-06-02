@@ -1487,7 +1487,7 @@ graph TB
 
 <div align="center">
 
-*📝 文档版本：v2.0 | 🔄 最后更新：2025年 | 👨‍💻 作者：AI编程团队*
+*🔄 最后更新：2025年 | 👨‍💻 作者：AI编程团队*
 
 ![Thank You](https://img.shields.io/badge/💖_Thank_You-感谢阅读-FFD54F?style=flat&logo=heart&logoColor=white)
 

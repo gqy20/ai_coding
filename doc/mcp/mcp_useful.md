@@ -310,7 +310,7 @@ npx exa-mcp-server --tools=web_search,research_paper_search
 
 <div align="center">
 
-*📝 文档版本：v1.0 | 🔄 最后更新：2025年6月2日 | 👨‍💻 作者：AI Coding Team*
+*🔄 最后更新：2025年6月2日 | 👨‍💻 作者：AI Coding Team*
 
 ![Thank You](https://img.shields.io/badge/💖_Thank_You-感谢阅读-FFD54F?style=flat&logo=heart&logoColor=white)
 
