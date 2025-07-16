@@ -4,33 +4,8 @@
   <img src="https://img.shields.io/badge/精选-推荐-red?style=for-the-badge" alt="Curated Recommendations Badge" />
 </p>
 
-<div align="center">
-
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║                                                          ║
-  ║    ✨ AI编码学习资源宝库：助您从入门到精通 🚀             ║
-  ║                                                          ║
-  ║        🌟 视频教程、公众号、GitHub项目一网打尽             ║
-  ║        🎨 拓展您的AI编程技能树                             ║
-  ║        🎯 持续学习，保持领先                               ║
-  ║                                                          ║
-  ╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 # AI编码学习资源宝库：助您从入门到精通 🚀
 
-<div align="center">
-
-```
-    📚💡💻        AI Coding Learning = Skill Enhancement        🚀📈✨
-    ═══════════════════════════════════════════════════════════
-    ⚡ 视频教程 ⚡ 开源项目 ⚡ 官方文档 ⚡ 社区交流 ⚡
-```
-
-</div>
 
 ## 概述
 
@@ -43,22 +18,19 @@
 ### 视频教程与UP主
 
 -   **B站 UP主与视频资源**：
-  -   **[技术爬爬虾](https://space.bilibili.com/316183842)**  
-    专注于**AI编程**、**开发技巧**和**实用软件DIY**，内容通俗易懂，适合**初学者入门**。
-  -   **[黄益智](https://space.bilibili.com/322961825)**  
-    分享**AI应用**、**技术教程**和**实战案例**，涵盖AI工具使用、项目开发等，适合**进阶学习**。
-  -   **[秋芝2046](https://space.bilibili.com/385670211)**  
-    提供**AI与编程相关视频**，包括AIGC电影创作系列课，内容系统，适合**初学者和进阶者**。
-  -   **[九天Hector](https://space.bilibili.com/385842994)**  
-    讲解**AI技术**、**编程实战**和**项目经验**，注重实用性和创新性，适合**有一定基础的开发者**。
-  -   **[kate人不错](https://space.bilibili.com/346575605)**  
-    分享**AI工具**、**编程教程**和**实用技巧**，内容丰富，适合**各阶段学习者**。
-  -   **[AI学长小林](https://space.bilibili.com/1316597695)**  
-    以通俗方式讲解**AI编程**、**算法原理**和**项目实操**，适合**零基础和进阶学习**。
-  -   **[KrillinAI](https://space.bilibili.com/242124650)**  
-    GitHub开源项目Klic Studio作者，分享高质量**AI科技内容**，传播知识，学以致用。
-  -   **[小白debug](https://space.bilibili.com/302188068)**  
-    聚焦**编程入门**、**AI工具实操**和**项目Debug技巧**，内容亲民，适合**零基础和进阶开发者**。
+
+| UP主 | 官方简介 | 代表作 | 粉丝数 | 获赞数 | 播放数 |
+|------|----------|--------|--------|--------|--------|
+| [技术爬爬虾](https://space.bilibili.com/316183842) | Bilibili知名科技UP主，官方认证“bilibili 知名科技UP主”。专注于AI工具应用、AI解决实际问题、AIGC教程等，内容通俗易懂，适合初学者入门。 | [Github暴打字体版权流氓，免费可商用字体下载安装保姆教程](//www.bilibili.com/video/BV1Rh4y1B7qp/)，[旧电脑不要扔！你还能用来。。。最简单便宜家庭服务器攻略教程](//www.bilibili.com/video/BV1Lc411R7xM/)，[最有效的微信清理就是卸载，微信聊天记录备份保姆教程，还手机存储自由](//www.bilibili.com/video/BV1D84y1R7Qv/) | 21.6万 | N/A | N/A |
+| [黄益智](https://space.bilibili.com/322961825) | 分享AI应用、技术教程和实战案例，涵盖AI工具使用、项目开发等，适合进阶学习。 | N/A | 4万 | N/A | N/A |
+| [秋芝2046](https://space.bilibili.com/385670211) | 提供AI与编程相关视频，包括AIGC电影创作系列课，内容系统，适合初学者和进阶者。 | [【AI失业潮】我们离大规模失业有多远？](//www.bilibili.com/video/BV1WzJcz5Eij/)，[秋芝2046｜送给所有人的AIGC电影创作系列课！【先导篇】](//www.bilibili.com/video/BV1tTVBzuEqF/)，[【摆脱卡顿】DeepSeek全网最全的实战技巧！建议收藏～](//www.bilibili.com/video/BV12QPme7EN9/) | 52.1万 | N/A | N/A |
+| [九天Hector](https://space.bilibili.com/385842994) | 讲解AI技术、编程实战和项目经验，注重实用性和创新性，适合有一定基础的开发者。 | [【全网独家】训练定制化DeepSeek R1！零基础DeepSeek R1高效微调实战｜知识灌注+对话风格微调，推理模型+Cot数据集微调实战！](//www.bilibili.com/video/BV1YjN8eGE1H/)，[DeepSeek正式发布DualPipe，梁文峰亲自带队研发神级双向管道并行算加速，毫秒级榨干GPU性能！](//www.bilibili.com/video/BV1Gj9AYMEki/)，[【2025版】大模型GPU硬件配置保姆级指南｜一站式解决深度学习&大模型硬件问题｜大模型推理与训练，GPU硬件配置指南](//www.bilibili.com/video/BV1VFqZYSEoj/) | 10.6万 | N/A | N/A |
+| [kate人不错](https://space.bilibili.com/346575605) | 分享AI工具、编程教程和实用技巧，内容丰富，适合各阶段学习者。 | N/A | 3万 | N/A | N/A |
+| [AI学长小林](https://space.bilibili.com/1316597695) | 以通俗方式讲解AI编程、算法原理和项目实操，适合零基础和进阶学习。 | [必看！OpenAI放出通用Prompt模版、逆向开箱、效果震撼！](//www.bilibili.com/video/BV1294y1s7zR/)，[【黄金组合】ChatGPT+Excel生产力飙升，完美适配各种使用场景、公式、方法！](//www.bilibili.com/video/BV1MH4y1Q7yU/)，[最新数字人克隆教程：全流程手把手，轻松创建你的数字分身，内含独家省钱技巧！](//www.bilibili.com/video/BV1SN411x74r/) | 3.4万 | N/A | N/A |
+| [KrillinAI](https://space.bilibili.com/242124650) | GitHub开源项目Klic Studio作者，分享高质量AI科技内容，传播知识，学以致用。 | [【1080P】安德烈·卡帕西：深入探索像ChatGPT这样的大语言模型｜Andrej Karpathy](//www.bilibili.com/video/BV16cNEeXEer/)，[开源免费！专业级AI视频翻译神器，极简部署，一键启动｜KrillinAI｜Krillin AI｜小林AI｜视频搬运｜内容出海](//www.bilibili.com/video/BV14rCpYxEA6/)，[【哈佛大学CS50】《计算机导论》2025年完整课程 | 人工智能](//www.bilibili.com/video/BV1hTEjztESF/) | 7.1万 | N/A | N/A |
+| [小白debug](https://space.bilibili.com/302188068) | 聚焦编程入门、AI工具实操和项目Debug技巧，内容亲民，适合零基础和进阶开发者。 | [socket到底是什么？](//www.bilibili.com/video/BV12A411X7gY/)，[docker是什么？和kubernetes(k8s)是什么关系？](//www.bilibili.com/video/BV1aA44m1w7Ew/)，[消息队列Kafka是什么？架构是怎么样的？5分钟快速入门](//www.bilibili.com/video/BV1TT421y79S/) | 18.5万 | N/A | N/A |
+| [Xuan_酱](https://space.bilibili.com/14848367) | 沉迷AI，无法自拔。合作：XuanJiang233（备注来意）。 | [有人用AI搞了上千万？扒遍全网，我找到了普通人用AI搞钱的十种方法](//www.bilibili.com/video/BV1APByYYEp3/)，[血赚100w纯属意外?这个AI赛道一点也不挤！AI Agents保姆级教程，手把手教学](//www.bilibili.com/video/BV1BucteeEyr/)，[揭秘AI视频生成最强工作流！如何用AI“拍摄”高清电影感大片？从分镜脚本到成片剪辑，手把手教学，附工具推荐、教学资料！｜微星创造者16 AI+锐龙版](//www.bilibili.com/video/BV1ezc7ePE4G/) | 33.1万 | N/A | N/A | N/A |
+御风大世界 https://space.bilibili.com/193580090
 
 这些UP主的视频内容涵盖了AI编程的各个阶段，从基础入门到项目实战，帮助学习者系统提升AI开发能力。建议根据自身学习阶段选择合适的UP主进行关注和学习。
 
@@ -75,6 +47,18 @@
 -   **Python卡皮巴拉** - 分享Python、AI编程实用技巧和案例，适合初学者和进阶者。
 -   **杰克船长的AIGC** - 关注AIGC、AI创作与开发，内容丰富，适合AI开发者。
 -   **InfoQ** - 为一线互联网公司核心技术人员提供优质内容，是科技圈的观察者和前沿技术的传播者。
+新智元
+APPSO
+特工宇宙
+李继刚
+AI前线
+AI科技评论
+夕小瑶科技说
+AI产品榜
+Founder Park
+赛博禅心
+GitHubDaily
+
 
 ### GitHub项目与开源资源
 

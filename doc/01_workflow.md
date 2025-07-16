@@ -3,34 +3,8 @@
   <img src="https://img.shields.io/badge/开发者-效率提升-green?style=for-the-badge" alt="Developer Efficiency Badge" />
   <img src="https://img.shields.io/badge/指南-快速上手-red?style=for-the-badge" alt="Quick Start Guide Badge" />
 </p>
-
-<div align="center">
-
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║                                                          ║
-  ║    ✨ AI编码高效工作流：从入门到精通的实践路径 🚀         ║
-  ║                                                          ║
-  ║        🌟 简化开发流程                                    ║
-  ║        🎨 提升代码质量与速度                               ║
-  ║        🎯 助您成为智能编程高手                             ║
-  ║                                                          ║
-  ╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 # AI编码高效工作流：从入门到精通的实践路径 🚀
 
-<div align="center">
-
-```
-    ⚙️💡💻        AI Coding Workflow = Enhanced Productivity        🚀📈✨
-    ═══════════════════════════════════════════════════════════
-    ⚡ 智能辅助 ⚡ 快速迭代 ⚡ 质量保障 ⚡ 持续优化 ⚡
-```
-
-</div>
 
 ## 概述
 
