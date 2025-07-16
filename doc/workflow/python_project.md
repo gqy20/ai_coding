@@ -1,3 +1,44 @@
+---
+title: "Python项目开发工作流 - AI助手指南"
+version: "v2.0.0"
+author: "Python开发工作流团队"
+created_date: "2025-07-16"
+updated_date: "2025-07-16"
+category: "开发工具"
+tags:
+  - "Python开发"
+  - "项目工作流"
+  - "uv包管理"
+  - "技术选型"
+  - "项目架构"
+  - "开发规范"
+  - "测试驱动"
+description: "专为AI助手设计的完整Python项目开发工作流，从需求分析到项目交付"
+use_cases:
+  - "Python项目架构设计"
+  - "技术栈选择指导"
+  - "开发流程规范"
+  - "测试策略制定"
+  - "文档标准化"
+complexity: "中级到高级"
+language: "中文"
+principles:
+  - "现代化工具链"
+  - "标准化流程"
+  - "质量优先"
+  - "快速交付"
+output_formats:
+  - "项目结构"
+  - "配置文件"
+  - "开发文档"
+  - "测试框架"
+dependencies:
+  - "uv (包管理)"
+  - "pytest (测试)"
+  - "black (格式化)"
+  - "mypy (类型检查)"
+---
+
 # Python项目开发工作流 - AI助手指南
 
 ## 1. 概述
