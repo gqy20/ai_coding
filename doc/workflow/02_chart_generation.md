@@ -1,6 +1,6 @@
 ---
 title: "图表生成专家AI提示词"
-version: "v1.0.0"
+version: "v0.1.0"
 author: "数据可视化工作流团队"
 created_date: "2025-07-16"
 updated_date: "2025-07-16"
@@ -27,6 +27,27 @@ mcp_tools:
   - "数据分析工具"
 complexity: "中级"
 language: "中文"
+ratings:
+  difficulty: 6        # 难度等级 (1-10, 10最难)
+  learning_curve: 5    # 学习曲线 (1-10, 10最陡峭)
+  practicality: 9      # 实用性 (1-10, 10最实用)
+  automation: 8        # 自动化程度 (1-10, 10最自动化)
+  documentation: 8     # 文档完整度 (1-10, 10最完整)
+  maintenance: 4       # 维护难度 (1-10, 10最难维护)
+  scalability: 7       # 可扩展性 (1-10, 10最可扩展)
+  time_to_result: 9    # 出结果速度 (1-10, 10最快)
+overall_score: 7.0     # 总体评分 (1-10)
+recommended_for:
+  - "数据分析师"
+  - "产品经理"
+  - "市场研究人员"
+  - "业务分析师"
+  - "可视化设计师"
+prerequisites:
+  - "基础数据分析概念"
+  - "JavaScript或Python基础"
+  - "统计学基础知识"
+estimated_learning_time: "2-4周"
 output_formats:
   - "JavaScript代码"
   - "Python脚本"

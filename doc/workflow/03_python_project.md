@@ -1,6 +1,6 @@
 ---
 title: "Python项目开发工作流 - AI助手指南"
-version: "v2.0.0"
+version: "v0.1.0"
 author: "Python开发工作流团队"
 created_date: "2025-07-16"
 updated_date: "2025-07-16"
@@ -37,6 +37,28 @@ dependencies:
   - "pytest (测试)"
   - "black (格式化)"
   - "mypy (类型检查)"
+ratings:
+  difficulty: 7        # 难度等级 (1-10, 10最难)
+  learning_curve: 6    # 学习曲线 (1-10, 10最陡峭)
+  practicality: 8      # 实用性 (1-10, 10最实用)
+  automation: 6        # 自动化程度 (1-10, 10最自动化)
+  documentation: 9     # 文档完整度 (1-10, 10最完整)
+  maintenance: 5       # 维护难度 (1-10, 10最难维护)
+  scalability: 9       # 可扩展性 (1-10, 10最可扩展)
+  time_to_result: 6    # 出结果速度 (1-10, 10最快)
+overall_score: 7.0     # 总体评分 (1-10)
+recommended_for:
+  - "Python开发者"
+  - "软件工程师"
+  - "全栈开发者"
+  - "技术团队负责人"
+  - "DevOps工程师"
+prerequisites:
+  - "Python编程基础"
+  - "软件工程概念"
+  - "版本控制(Git)使用"
+  - "命令行操作"
+estimated_learning_time: "1-2个月"
 ---
 
 # Python项目开发工作流 - AI助手指南

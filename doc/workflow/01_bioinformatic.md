@@ -1,6 +1,6 @@
 ---
 title: "生物信息学专家AI提示词"
-version: "v2.0.0"
+version: "v0.2.0"
 author: "GQY"
 created_date: "2025-06-22"
 updated_date: "2025-07-16"
@@ -26,6 +26,27 @@ mcp_tools:
   - "知识库查询"
 complexity: "高级"
 language: "中文"
+ratings:
+  difficulty: 9        # 难度等级 (1-10, 10最难)
+  learning_curve: 8    # 学习曲线 (1-10, 10最陡峭)
+  practicality: 9      # 实用性 (1-10, 10最实用)
+  automation: 7        # 自动化程度 (1-10, 10最自动化)
+  documentation: 9     # 文档完整度 (1-10, 10最完整)
+  maintenance: 6       # 维护难度 (1-10, 10最难维护)
+  scalability: 8       # 可扩展性 (1-10, 10最可扩展)
+  time_to_result: 7    # 出结果速度 (1-10, 10最快)
+overall_score: 7.9     # 总体评分 (1-10)
+recommended_for:
+  - "生物信息学研究人员"
+  - "基因组学专家"
+  - "植物学研究者"
+  - "生物数据分析师"
+prerequisites:
+  - "生物学基础知识"
+  - "统计学基础"
+  - "R/Python编程经验"
+  - "Linux系统使用经验"
+estimated_learning_time: "2-3个月"
 ---
 
 # 生物信息学专家AI提示词

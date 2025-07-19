@@ -1,6 +1,6 @@
 ---
 title: "简洁代码实现专家AI提示词"
-version: "v1.0.0"
+version: "v0.1.0"
 author: "快速开发工作流团队"
 created_date: "2025-07-16"
 updated_date: "2025-07-16"
@@ -30,6 +30,26 @@ output_formats:
   - "Python脚本"
   - "简洁README"
   - "项目结构"
+ratings:
+  difficulty: 3        # 难度等级 (1-10, 10最难)
+  learning_curve: 2    # 学习曲线 (1-10, 10最陡峭)
+  practicality: 8      # 实用性 (1-10, 10最实用)
+  automation: 5        # 自动化程度 (1-10, 10最自动化)
+  documentation: 7     # 文档完整度 (1-10, 10最完整)
+  maintenance: 8       # 维护难度 (1-10, 10最难维护)
+  scalability: 4       # 可扩展性 (1-10, 10最可扩展)
+  time_to_result: 10   # 出结果速度 (1-10, 10最快)
+overall_score: 5.9     # 总体评分 (1-10)
+recommended_for:
+  - "编程初学者"
+  - "快速原型开发者"
+  - "学生和教学人员"
+  - "小型项目需求者"
+  - "脚本工具开发者"
+prerequisites:
+  - "基础编程概念"
+  - "Python基础语法"
+estimated_learning_time: "1-2周"
 ---
 
 # 简洁代码实现专家AI提示词
